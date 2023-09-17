@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @vasuvibingprivetly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in flutter devlopment
+- 🌱 I’m currently learning fluter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vasuvibingprivetly/vasuvibingprivetly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me bhurakhyavasu@gmail.com
+- 🚀 Exploring the digital universe one commit at a time
+- 💡 Innovator by day, coder by night
+- 🌍 Building a better tomorrow with code
+- 📚 Constantly learning, always evolving
+- 🎯 Turning caffeine into code
+- 💻 Coding my way to the stars
+- 🧠 Debugging the mysteries of life
+- 🌌 Embracing the chaos of code
+- 🚧 Building bridges between ideas and reality
+- 📦 Packaging creativity into code
+- 🌟 Striving for excellence in every line
