@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasuvibingprivetly
 - 👀 I’m interested in flutter devlopment
-- 🌱 I’m currently learning fluter
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhurakhyavasu@gmail.com
 - 🚀 Exploring the digital universe one commit at a time
